@@ -1,0 +1,15 @@
+[
+    {
+        "customer": "john doe",
+        "phone": "0900000033",
+        "rent_id": "WMsc3",
+        "date": "06-06-2026  12:42 PM",
+        "items": [
+            {
+                "item": "wine rose",
+                "qty": "10"
+            }
+        ],
+        "returned": true
+    }
+]
