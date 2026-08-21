@@ -1,5 +1,5 @@
 # 📦 Store Inventory Management System
-![Store Inventory Management System](inventory-management.png)
+![Store Inventory Management System](./inventory_management.png)
 
 A desktop-based inventory management application built with Python to help manage products, customers, stock, transactions, and reports.
 
